@@ -1,0 +1,1 @@
+# can_show_note
